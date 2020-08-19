@@ -1,3 +1,3 @@
-# Media-PLayer-that-Play-and-Stop-Virtually
+# Media-Player-that-Play-and-Stop-Virtually
 This project is made using "Open-CV" by the detection of frontal face movement.With the help of co-ordinate of the screen,if the user is watching towards screen then it will play the video else it will pause.By implementing logic of "Space" button through which we can play and pause, this program is created.            It is useful as when someone distract or the user is not watching on screen, it automatically pauses the video which is something very satisfactory for the users.       This project is something which give visualization of coming technologies in future.
 You have to callibrate co-ordinates (on and off screen) to see it's proper working.
